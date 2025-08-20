@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "goit-markup-final",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build --base=/mcs9-incredibles/",
+    "build": "vite build --base=/goit-markup-final/",
     "preview": "vite preview"
   },
   "devDependencies": {
